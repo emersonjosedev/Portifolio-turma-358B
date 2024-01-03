@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background:linear-gradient(#85A0A6,#A8BBBF,#C1D4D9);
+}
+
+header{
+   background-color: #4D6C73;
+    text-align: center;
+    padding: 1%;
+    
+    }
+
+header ul li{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000;
+    
+}
+
+h1{
+   
+}
+h2{
+    font-family: 'Poppins';
+    font-weight: 500;
+    color: #000;
+
+}
+
+.sessao1{
+    
+    max-width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(37, 35, 134);
+    background:#E9F1F2;
+    border-radius: 20px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000;
+}
+ 
+
+footer{
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:#E9F1F2 ;
+}
+
+
