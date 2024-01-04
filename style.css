@@ -6,13 +6,15 @@ body{
     font-family:Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
-    background:linear-gradient(#85A0A6,#A8BBBF,#C1D4D9);
+    background-image:url(imgportifolio/WhatsApp\ Image\ 2024-01-04\ at\ 09.15.42.jpeg);
+  
 }
 
 header{
-   background-color: #4D6C73;
-    text-align: center;
+  
+    text-align: justify;
     padding: 1%;
+    background-image: url(imgportifolio/63bdcf0f-da1d-4aee-8daa-43cdac700d51.jpg);
     
     }
 
@@ -25,6 +27,7 @@ header ul li{
 }
 
 h1{
+    padding: 0px;
    
 }
 h2{
@@ -41,13 +44,15 @@ h2{
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgb(37, 35, 134);
-    background:#E9F1F2;
+    background-color: #FFFFFF;
     border-radius: 20px;
     font-family: 'Poppins';
-    font-weight: 400;
+    font-weight: 500;
     font-size: 20px;
     color: #000;
+    
 }
+
  
 
 footer{
